@@ -1,0 +1,21 @@
+* {
+    font-family: 'Roboto', 'sans-serif';
+}
+
+body {
+    background-color: #eeeee4;
+}
+
+.hub {
+    background-color: #fff;
+    text-align: center;
+    width: 500px; 
+    height: 200px; 
+    margin: 0 auto; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    border-radius: 5px;
+    box-shadow: 10px 10px 50px 0px #acacac;
+}
