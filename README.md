@@ -1,2 +1,7 @@
 # Binary-to-decimal
-A simple project to convert binary numbers in decimal using JavaScript
+
+// EN-US
+A simple project to convert binary numbers in decimal using JavaScript.
+
+// PT-BR
+Um simples projeto pra converte números binários em decimais usando JavaScript.
