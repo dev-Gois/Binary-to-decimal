@@ -1,9 +1,13 @@
-# Binary-to-decimal
+# 💻 Conversor Binário para Decimal
 
-// EN-US
-A simple project to convert binary numbers in decimal using JavaScript.
+Uma aplicação para converter números binários em decimais
 
-// PT-BR
-Um simples projeto pra converte números binários em decimais usando JavaScript.
+## 🛠 Funcionalidade:
 
-https://dev-gois.github.io/Binary-to-decimal/home.html?
+- Conversão de numerais binários em numerais decimais
+
+## 💻 Tecnologias:
+
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+/ Não foi utilizado nenhum framework, apenas JS, HTML e CSS
